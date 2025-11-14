@@ -1,0 +1,21 @@
+{
+  "name": "grosity-website",
+  "version": "1.0.0",
+  "description": "Grosity - Fresh Produce Startup Website",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static site - no build needed'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "grosity",
+    "fresh-produce",
+    "vegetables",
+    "patiala"
+  ],
+  "author": "Grosity India",
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "^33.0.0"
+  }
+}
